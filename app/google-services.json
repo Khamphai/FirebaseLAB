@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "588491457699",
+    "firebase_url": "https://mhacs-c1c8e.firebaseio.com",
+    "project_id": "mhacs-c1c8e",
+    "storage_bucket": "mhacs-c1c8e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588491457699:android:77a6adbf98210542",
+        "android_client_info": {
+          "package_name": "kphai.noobswe.com.testmhacs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588491457699-vuspu75osfd08it6nfo4j1jaq0cmc1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8x-1_VjDU_wCcB4kEJTq3eyRbG0KZV00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588491457699:android:15eaf98002be74d7",
+        "android_client_info": {
+          "package_name": "kphai.noobswe.com.firebaselab"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588491457699-vuspu75osfd08it6nfo4j1jaq0cmc1tp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8x-1_VjDU_wCcB4kEJTq3eyRbG0KZV00"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

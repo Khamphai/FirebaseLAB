@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">@color/blue</color>
+    <color name="colorPrimaryDark">@color/dark_blue</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="colorPrimaryF">#3F51B5</color>
+    <color name="colorPrimaryDarkF">#303F9F</color>
+
+    <color name="dark_blue">#0199AD</color>
+    <color name="blue">#00AEC5</color>
+    <color name="light_blue">#2BD3EA</color>
+    <color name="dark_blue_gray">#8CA7B2</color>
+    <color name="blue_gray">#99BCCB</color>
+    <color name="gray">#AAAAAA</color>
+    <color name="white">#FFFFFF</color>
+
+
+    <color name="button_blue_gray_normal">@color/blue_gray</color>
+    <color name="button_blue_gray_pressed">@color/dark_blue_gray</color>
+    <color name="button_blue_normal">@color/blue</color>
+    <color name="button_blue_pressed">@color/dark_blue</color>
+    <color name="button_disable">@color/gray</color>
+
+    <color name="text_white">@color/white</color>
+</resources>
